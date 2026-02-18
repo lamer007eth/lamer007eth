@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Lamer 👋
 
-<!--
-**lamer007eth/lamer007eth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Crypto / Web3 developer focused on automation, monitoring tools and testnet infrastructure.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚙️ What I build
+
+* Blockchain monitoring & alert systems
+* Testnet farming software (Monad, etc.)
+* Crypto data parsers & analytics tools
+* Trading / fee / mempool trackers
+* Automation bots & scripts
+
+---
+
+## 🧠 Tech stack
+
+* **Python** (requests, asyncio, web3, automation)
+* APIs & RPC nodes
+* Blockchain data (BTC, EVM)
+* Parsing & monitoring systems
+* CLI tools & alert systems
+
+---
+
+## 🚀 Current focus
+
+* Expanding crypto tooling portfolio
+* Building advanced monitoring systems
+* Developing scalable testnet farming software
+
+---
+
+## 📫 Contact
+
+* Telegram: https://t.me/lamer007
+* Email: [admin@1nsta.top](mailto:admin@1nsta.top)
