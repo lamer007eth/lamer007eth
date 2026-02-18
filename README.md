@@ -35,4 +35,4 @@
 ## 📫 Contact
 
 * Telegram: https://t.me/lamer007
-* Email: [admin@1nsta.top](mailto:admin@1nsta.top)
+* Email: [admin@1nsta.top](mailto:lamer007@icloud.com)
