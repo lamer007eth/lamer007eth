@@ -14,10 +14,6 @@
 ![Infra](https://img.shields.io/badge/Infra-On--Chain-blueviolet?style=flat-square)
 ![Profile views](https://komarev.com/ghpvc/?username=lamer007eth&style=flat-square)
 
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamer007eth&theme=github_dark)
-
 ---
 
 Web3 automation developer building monitoring systems, trading analytics tools and on-chain infrastructure.
