@@ -15,12 +15,24 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lamer007eth&show_icons=true&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lamer007eth&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamer007eth&layout=compact&theme=dark" height="160"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamer007eth&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lamer007eth&style=flat-square"/>
+</p>
+## 📊 GitHub Stats
 
-![Profile views](https://komarev.com/ghpvc/?username=lamer007eth&style=flat-square)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lamer007eth&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamer007eth&layout=compact&theme=dark" height="160"/>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=lamer007eth&style=flat-square"/>
+</p>
 
 ---
 
