@@ -12,6 +12,9 @@
 ![APIs](https://img.shields.io/badge/APIs-REST%20%7C%20WebSocket-grey?style=flat-square)
 ![Monitoring](https://img.shields.io/badge/Type-Monitoring-red?style=flat-square)
 ![Infra](https://img.shields.io/badge/Infra-On--Chain-blueviolet?style=flat-square)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lamer007eth&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamer007eth&layout=compact&theme=dark)
+![Profile views](https://komarev.com/ghpvc/?username=lamer007eth&style=flat-square)
 
 ---
 
