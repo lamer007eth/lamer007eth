@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Web3](https://img.shields.io/badge/Web3-Development-purple?style=flat-square)
 ![Blockchain](https://img.shields.io/badge/Blockchain-Monitoring-orange?style=flat-square)
-![Ethereum](https://img.shields.io/badge/Ethereum-EVM-black?style=flat-square&logo=ethereum)
+![Ethereum](https://img.shields.io/badge/Ethereum-EVM-blue?style=flat-square&logo=ethereum)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-Tools-f7931a?style=flat-square&logo=bitcoin)
 ![NFT](https://img.shields.io/badge/NFT-Analytics-ff69b4?style=flat-square)
 ![Ordinals](https://img.shields.io/badge/Ordinals-Bitcoin_NFTs-yellow?style=flat-square)
