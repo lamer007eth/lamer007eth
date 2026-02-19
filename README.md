@@ -16,8 +16,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lamer007eth&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lamer007eth&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lamer007eth&theme=github_dark)
 
 ---
 
